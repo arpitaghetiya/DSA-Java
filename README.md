@@ -3,6 +3,6 @@
 ## Day 1 - Arrays
 
 ### Problems Solved
-- ✅ Largest Element in an Array
-
-Language: Java
+- ✅ Largest Element
+- ✅ Second Largest Element
+- ✅ Check if Array is Sorted
