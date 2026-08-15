@@ -1,8 +1,9 @@
 # DSA in Java
 
-## Day 1 - Arrays
+## Arrays
 
 ### Problems Solved
 - ✅ Largest Element
 - ✅ Second Largest Element
 - ✅ Check if Array is Sorted
+- ✅ Remove Duplicates from Sorted Array 
