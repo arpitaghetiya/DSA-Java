@@ -5,11 +5,11 @@
 ### Things to Know
 
 * ✅ Input / Output
-* ⏳ Data Types
-* ⏳ If Else Statements
-* ⏳ Switch Statements
-* ⏳ Arrays
-* ⏳ Strings
+* ✅ Data Types
+* ✅ If Else Statements
+* ✅ Switch Statements
+* ✅ Arrays
+* ✅ Strings
 * ⏳ For Loops
 * ⏳ While Loops
 * ⏳ Functions
