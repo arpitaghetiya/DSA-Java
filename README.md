@@ -10,10 +10,10 @@
 * ✅ Switch Statements
 * ✅ Arrays
 * ✅ Strings
-* ⏳ For Loops
-* ⏳ While Loops
-* ⏳ Functions
-* ⏳ Time Complexity
+* ✅ For Loops
+* ✅ While Loops
+* ✅ Functions
+* ✅ Time Complexity
 
 ## Arrays
 
