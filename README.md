@@ -42,7 +42,7 @@
 - ✅ Pattern 18
 - ✅ Pattern 19
 - ✅ Pattern 20
-- ⏳ Pattern 21
+- ✅ Pattern 21
 - ⏳ Pattern 22
 
 ### Java Collections
