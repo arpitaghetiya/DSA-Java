@@ -43,40 +43,79 @@
 - ✅ Pattern 19
 - ✅ Pattern 20
 - ✅ Pattern 21
-- ⏳ Pattern 22
+- ✅ Pattern 22
 
-### Java Collections
+---
 
+## Standard Libraries & Collections
+
+- ⏳ STL
 - ⏳ Java Collections
-- ⏳ STL Algorithms
+- ⏳ Python Libraries Part 1
+- ⏳ Python Libraries Part 2
+
+---
+
+## Concept Basics
 
 ### Basic Maths
 
-- ⏳ Count Digits
+- ⏳ Count all Digits of a Number
+- ⏳ Count Number of Odd Digits in a Number
 - ⏳ Reverse a Number
-- ⏳ Check Palindrome
-- ⏳ GCD
-- ⏳ Armstrong Number
-- ⏳ All Divisors
-- ⏳ Prime Number
+- ⏳ Palindrome Number
+- ⏳ Return the Largest Digit in a Number
+- ⏳ Factorial of a Given Number
+- ⏳ Check if the Number is Armstrong
+- ⏳ Check for Perfect Number
+- ⏳ Check for Prime Number
+- ⏳ Count of Prime Numbers till N
+- ⏳ GCD of Two Numbers
+- ⏳ LCM of Two Numbers
+- ⏳ Divisors of a Number
 
-### Basic Recursion
+### Basic Arrays
 
-- ⏳ Recursion Basics
-- ⏳ Print Name N Times
-- ⏳ Print 1 to N
-- ⏳ Print N to 1
-- ⏳ Sum of First N Numbers
-- ⏳ Factorial
+- ⏳ Sum of Array Elements
+- ⏳ Count of Odd Numbers in Array
+- ⏳ Check if the Array is Sorted I
 - ⏳ Reverse an Array
-- ⏳ Check Palindrome
-- ⏳ Fibonacci
 
 ### Basic Hashing
 
-- ⏳ Hashing Basics
-- ⏳ Frequency of Elements
-- ⏳ Highest / Lowest Frequency
+- ⏳ Highest Occurring Element in an Array
+- ⏳ Second Highest Occurring Element
+- ⏳ Sum of Highest and Lowest Frequency
+
+### Basic Strings
+
+- ⏳ Reverse a String II
+- ⏳ Palindrome Check
+- ⏳ Largest Odd Number in a String
+- ⏳ Longest Common Prefix
+- ⏳ Isomorphic Strings
+- ⏳ Rotate String
+- ⏳ Valid Anagram
+- ⏳ Sort Characters by Frequency
+
+---
+
+## Basic Recursion
+
+- ⏳ Recursion Theory
+- ⏳ Recursion Concepts with Parameters
+- ⏳ Sum of First N Numbers
+- ⏳ Factorial of a Given Number
+- ⏳ Sum of Array Elements II
+- ⏳ Reverse a String I
+- ⏳ Check if String is Palindrome or Not
+- ⏳ Check if a Number is Prime or Not
+- ⏳ Reverse an Array II
+- ⏳ Check if the Array is Sorted II
+- ⏳ Sum of Digits in a Given Number
+- ⏳ Fibonacci Number
+
+---
 
 ## Sorting
 
@@ -90,12 +129,16 @@
 - ⏳ Recursive Insertion Sort
 - ⏳ Quick Sort
 
+---
+
 ## Arrays
 
-* ✅ Largest Element
-* ✅ Second Largest Element
-* ✅ Check if Array is Sorted
-* ✅ Remove Duplicates from Sorted Array
-* ✅ Left Rotate an Array by One Place
-* ✅ Left Rotate an Array by D Places
-* ✅ Move Zeros to End
+### Completed
+
+- ✅ Largest Element
+- ✅ Second Largest Element
+- ✅ Check if Array is Sorted
+- ✅ Remove Duplicates from Sorted Array
+- ✅ Left Rotate an Array by One Place
+- ✅ Left Rotate an Array by D Places
+- ✅ Move Zeros to End
