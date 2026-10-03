@@ -6,7 +6,9 @@ import java.util.Queue;
 import java.util.PriorityQueue;
 import java.util.HashSet;
 import java.util.HashMap;
-
+import java.util.List;
+import java.util.Set;
+import java.util.Map;
 public class STL {
     public static void main(String[] args) {
         //ArrayList
@@ -118,6 +120,28 @@ public class STL {
         map.remove(2);
         System.out.println("HashMap after removing key 2: " + map);
         System.out.println("Size of the HashMap: " + map.size());
+        System.out.println();
+        System.out.println();
+
+        //Java Collections
+        List<Integer> list3 = new ArrayList<>();
+        list3.add(1);
+        list3.add(2);    
+        list3.add(3);
+        System.out.println("List: " + list3);
+
+        Set<Integer> set2 = new HashSet<>();
+        set2.add(1);
+        set2.add(2);
+        set2.add(3);
+        System.out.println("Set: " + set2);
+
+        Map<Integer, String> map2 = new HashMap<>();
+        map2.put(1, "Java");
+        map2.put(2, "Python");
+        map2.put(3, "C++");
+        System.out.println("Map: " + map2);
+        System.out.println("Value for key 2: " + map2.get(2));
     }
 
 }
