@@ -50,7 +50,7 @@
 ## Standard Libraries & Collections
 
 - ✅ STL
-- ⏳ Java Collections
+- ✅ Java Collections
 - ⏳ Python Libraries Part 1
 - ⏳ Python Libraries Part 2
 
