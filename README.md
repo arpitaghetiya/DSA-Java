@@ -51,8 +51,8 @@
 
 - ✅ STL
 - ✅ Java Collections
-* ✅ Python Libraries Part 1
-* ✅ Python Libraries Part 2
+- ✅ Python Libraries Part 1
+- ✅ Python Libraries Part 2
 
 ---
 
@@ -60,9 +60,9 @@
 
 ### Basic Maths
 
-- ⏳ Count all Digits of a Number
-- ⏳ Count Number of Odd Digits in a Number
-- ⏳ Reverse a Number
+- ✅ Count all Digits of a Number
+- ✅ Count Number of Odd Digits in a Number
+- ✅ Reverse a Number
 - ⏳ Palindrome Number
 - ⏳ Return the Largest Digit in a Number
 - ⏳ Factorial of a Given Number
