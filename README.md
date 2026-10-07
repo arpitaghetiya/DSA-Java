@@ -63,8 +63,8 @@
 - ✅ Count all Digits of a Number
 - ✅ Count Number of Odd Digits in a Number
 - ✅ Reverse a Number
-- ⏳ Palindrome Number
-- ⏳ Return the Largest Digit in a Number
+- ✅ Palindrome Number
+- ✅ Return the Largest Digit in a Number
 - ⏳ Factorial of a Given Number
 - ⏳ Check if the Number is Armstrong
 - ⏳ Check for Perfect Number
