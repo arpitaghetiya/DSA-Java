@@ -65,9 +65,9 @@
 - ✅ Reverse a Number
 - ✅ Palindrome Number
 - ✅ Return the Largest Digit in a Number
-- ⏳ Factorial of a Given Number
-- ⏳ Check if the Number is Armstrong
-- ⏳ Check for Perfect Number
+- ✅ Factorial of a Given Number
+- ✅ Check if the Number is Armstrong
+- ✅ Check for Perfect Number
 - ⏳ Check for Prime Number
 - ⏳ Count of Prime Numbers till N
 - ⏳ GCD of Two Numbers
