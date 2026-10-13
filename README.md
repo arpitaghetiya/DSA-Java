@@ -69,7 +69,7 @@
 - ✅ Check if the Number is Armstrong
 - ✅ Check for Perfect Number
 - ✅ Check for Prime Number
-- ⏳ Count of Prime Numbers till N
+- ✅ Count of Prime Numbers till N
 - ⏳ GCD of Two Numbers
 - ⏳ LCM of Two Numbers
 - ⏳ Divisors of a Number
