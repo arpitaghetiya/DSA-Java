@@ -71,7 +71,7 @@
 - ✅ Check for Prime Number
 - ✅ Count of Prime Numbers till N
 - ✅ GCD of Two Numbers
-- ⏳ LCM of Two Numbers
+- ✅ LCM of Two Numbers
 - ⏳ Divisors of a Number
 
 ### Basic Arrays
