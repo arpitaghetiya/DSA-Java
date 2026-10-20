@@ -98,8 +98,6 @@
 - ⏳ Valid Anagram
 - ⏳ Sort Characters by Frequency
 
----
-
 ## Basic Recursion
 
 - ⏳ Recursion Theory
