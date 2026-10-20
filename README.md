@@ -98,7 +98,7 @@
 - ⏳ Valid Anagram
 - ⏳ Sort Characters by Frequency
 
-## Basic Recursion
+### Basic Recursion
 
 - ⏳ Recursion Theory
 - ⏳ Recursion Concepts with Parameters
