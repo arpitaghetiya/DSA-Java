@@ -14,6 +14,5 @@ public class LCM {
         int gcd=a;
         int lcm=(x*y)/gcd;
         System.out.println(lcm);
-
     }
 }
