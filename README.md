@@ -77,9 +77,9 @@
 ### Basic Arrays
 
 - ✅ Sum of Array Elements
-- ⏳ Count of Odd Numbers in Array
-- ⏳ Check if the Array is Sorted I
-- ⏳ Reverse an Array
+- ✅ Count of Odd Numbers in Array
+- ✅ Check if the Array is Sorted I
+- ✅ Reverse an Array
 
 ### Basic Hashing
 
