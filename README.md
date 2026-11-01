@@ -83,9 +83,9 @@
 
 ### Basic Hashing
 
-- ⏳ Highest Occurring Element in an Array
-- ⏳ Second Highest Occurring Element
-- ⏳ Sum of Highest and Lowest Frequency
+- ✅ Highest Occurring Element in an Array
+- ✅ Second Highest Occurring Element
+- ✅ Sum of Highest and Lowest Frequency
 
 ### Basic Strings
 
