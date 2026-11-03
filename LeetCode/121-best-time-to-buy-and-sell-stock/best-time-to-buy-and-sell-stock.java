@@ -4,8 +4,7 @@ class Solution {
         int minPrice=Integer.MAX_VALUE;
         for(int price:prices){
             minPrice=Math.min(minPrice,price);
-            int profit= price-minPrice;
-            maxProfit=Math.max(maxProfit,profit);
+            maxProfit=Math.max(maxProfit,price-minPrice);
         }
         return maxProfit;
     }
