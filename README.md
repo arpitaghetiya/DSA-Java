@@ -89,7 +89,7 @@
 
 ### Basic Strings
 
-- ⏳ Reverse a String II
+- ✅ Reverse a String II
 - ⏳ Palindrome Check
 - ⏳ Largest Odd Number in a String
 - ⏳ Longest Common Prefix
