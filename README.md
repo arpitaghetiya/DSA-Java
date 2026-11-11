@@ -90,9 +90,9 @@
 ### Basic Strings
 
 - ✅ Reverse a String II
-- ⏳ Palindrome Check
-- ⏳ Largest Odd Number in a String
-- ⏳ Longest Common Prefix
+- ✅ Palindrome Check
+- ✅ Largest Odd Number in a String
+- ✅ Longest Common Prefix
 - ⏳ Isomorphic Strings
 - ⏳ Rotate String
 - ⏳ Valid Anagram
